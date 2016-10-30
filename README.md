@@ -15,3 +15,8 @@ Banco Products India Ltd	225.3	5.28	2	BUY
 Avanti Feeds Ltd	534.65	6.26	1	BUY
 Skipper Ltd	150	7.03	4	BUY
 Garware Wall Ropes Ltd	555.5	6.51	1	BUY
+
+Bargain buy
+SJVN Ltd	33.25	33.31	12	BUY
+Gujarat Alkalies And Chemicals Ltd	411	34.31	1	BUY
+Kolte Patil Developers Ltd	129.3	32.38	3	BUY
